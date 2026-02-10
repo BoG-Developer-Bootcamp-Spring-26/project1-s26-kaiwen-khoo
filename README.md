@@ -10,6 +10,7 @@ In this project, you'll be creating a frontend that graphically displays Pokémo
 
 # Submission Instructions
 - Create a 0.5-3 minute video walkthrough of your project (include the video link in the README of your project repo)
+  - You can just post it to Youtube or provide a Google Drive link or whatever works.
 - Push all your changes to the remote repository. Make sure that the owner is BoG-Developer-Bootcamp-S26 so that we can see the repository! (if you forgot to do this, you can alternatively message Nathan on Slack with the link to your repo)
 - **Due Date:** 2/24/26
 
@@ -18,6 +19,8 @@ In this project, you'll be creating a frontend that graphically displays Pokémo
 - Must contain the specified frontend elements
 - Must use the free PokeAPI
 - Should have at least 20 commits (though not required)
+- **Extra Credit:** Make the application responsive on other devices (phones, tablets, etc)
+- **Disclaimer:** Please do not do anything extra to this project that makes it look different from the Figma. We want to test your ability to make a webpage that fits the requirements outlined in the Figma and the assignment as this is similar to how work is assigned to BoG developers. We will have more opportunities for you to design and go above and beyond later, but please just stick to the requirements for now.
 
 ## Project Specifications
 **What the end result should look like:**
@@ -28,7 +31,7 @@ In this project, you'll be creating a frontend that graphically displays Pokémo
 ### General Guidelines
 You should try to follow the mockups as closely as possible (including the alignments). The Figma designs can be found [here](https://www.figma.com/file/fQMSS7UqlWSY8M4uadlboM/Bits-of-Good-F23-Project-1?type=design&node-id=0%3A1&mode=design&t=94SJ06eCzcBAOSip-1).
 
-This project is designed to replicate real Bi of Good developer work. Typically, developers are given mockups by designers and are tasked with implementing them in code.
+This project is designed to replicate real Bits of Good developer work. Typically, developers are given mockups by designers and are tasked with implementing them in code.
 
 ### API Fetches
 You will be pinging the PokeAPI using `fetch()`. Refer to the [PokeAPI docs](https://pokeapi.co/docs/v2#pokemon) for more details about endpoints and JSON response formats. You can also view your requests at https://pokeapi.co/.
